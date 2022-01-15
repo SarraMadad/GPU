@@ -12,7 +12,7 @@
 * Run on Linux
 
 ```text
-$ gcc gcc morpion.c -o morpion
+$ gcc morpion.c -o morpion
 $ ./morpion
 ```
 
