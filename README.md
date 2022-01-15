@@ -18,7 +18,7 @@ $ ./morpion
 
 ## Authors 
 
-- Sarra Madad & Manelle Nouar & Mélanie Tilla Covindara.
+- Sarra Madad & Manelle Nouar & Mélanie Tillacovindara.
 
 ## Liens 
 
