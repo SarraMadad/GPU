@@ -18,8 +18,8 @@ $ ./morpion
 
 ## Authors 
 
-- Sarra Madad & Manelle Nouar & Mélanie Tilla covindara
+- Sarra Madad & Manelle Nouar & Mélanie Tilla Covindara.
 
 ## Liens 
 
-- [Code du Morpion](https://github.com/Fymyte/morpion/edit/master/morpion.c)
+- [Code du Morpion](https://github.com/Fymyte/morpion/edit/master/morpion.c).
