@@ -16,7 +16,7 @@ $ gcc morpion.c -o morpion
 $ ./morpion
 ```
 
-## Authors 
+## Auteurs
 
 - Sarra Madad & Manelle Nouar & Mélanie Tillacovindara.
 
