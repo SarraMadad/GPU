@@ -23,4 +23,4 @@ $ ./morpion
 ## Liens 
 
 - [Code du Morpion](https://github.com/Fymyte/morpion/edit/master/morpion.c).
-- [Code ]().
+- [Code pour vérifier si un tableau à deux dimensions est une matrice creuse](https://www.studytonight.com/c/programs/array/checking-for-sparse-matrix).
