@@ -25,3 +25,4 @@ $ ./morpion
 - [Code du Morpion](https://github.com/Fymyte/morpion/edit/master/morpion.c).
 - [Code pour vérifier si un tableau à deux dimensions est une matrice creuse](https://www.studytonight.com/c/programs/array/checking-for-sparse-matrix).
 - [Multiplication matricielle](https://www.studytonight.com/c/programs/array/matrix-multiplication-program)
+- [Balle rebondissante](https://c.developpez.com/cours/20-heures/?page=page_17)
