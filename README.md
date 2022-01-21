@@ -8,12 +8,13 @@
 
 /!\ La note dépend de notre réflexion, pas de la performance de notre code.
 
+**Sujet : algorithme de tri pair/impair => évolution d'un tri à bulles version parallélisable**
 
 * Run on Linux
 
 ```text
-$ gcc morpion.c -o morpion
-$ ./morpion
+$ gcc xxx.c -o xxx
+$ ./xxx
 ```
 
 ## Auteurs
@@ -22,7 +23,5 @@ $ ./morpion
 
 ## Liens 
 
-- [Code du Morpion](https://github.com/Fymyte/morpion/edit/master/morpion.c).
-- [Code pour vérifier si un tableau à deux dimensions est une matrice creuse](https://www.studytonight.com/c/programs/array/checking-for-sparse-matrix).
-- [Multiplication matricielle](https://www.studytonight.com/c/programs/array/matrix-multiplication-program)
-- [Balle rebondissante](https://c.developpez.com/cours/20-heures/?page=page_17)
+- [Tri à bulles](https://fr.wikipedia.org/wiki/Tri_%C3%A0_bulles)
+- [Algorithmes de tris parallèles](http://icps.u-strasbg.fr/~loechner/enseignement/PARALLELISME/TP_TRI/)
