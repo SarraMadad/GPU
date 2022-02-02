@@ -16,8 +16,6 @@ reflechir à comment paralléliser.
 3. Performance que l'on obtient.
 4. Pas de rendu, juste la présentation mais on peut rendre le code source.
 
-CUB : https://nvlabs.github.io/cub/.
-
 /!\ La note dépend de notre réflexion, pas de la performance de notre code.
 
 **Sujet : algorithme de tri pair/impair => évolution d'un tri à bulles version parallélisable**
@@ -28,6 +26,8 @@ CUB : https://nvlabs.github.io/cub/.
 $ gcc xxx.c -o xxx
 $ ./xxx
 ```
+## Librairie
+CUB : https://nvlabs.github.io/cub/.
 
 ## Auteurs
 
